@@ -1,2 +1,2 @@
 document.body.innerHTML = 'h'
-console.log ('Test 2')
+console.log ('Test !!!!!!!!!!')
